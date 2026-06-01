@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="TV 5 Sololá" group-title="Guatemala",TV 5 Sololá
+#EXTVLCOPT:http-referrer=https://faciltvenvivo.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+https://alanza.iptv2022.com/sh/Tv_5_Solola/tracks-v1a1/mono.ts.m3u8?filter.tracks=a1v1v2v3
